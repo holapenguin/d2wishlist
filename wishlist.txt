@@ -1,0 +1,9 @@
+// Waking Vigil (PvE)
+//notes:PvE-
+dimwishlist:item=3723679465&perks=,1168162263,2173046394
+dimwishlist:item=3723679465&perks=,247725512,2173046394
+
+// Waking Vigil (PvP)
+//notes:PvP-
+dimwishlist:item=3723679465&perks=,1561002382,247725512,1015611457
+
