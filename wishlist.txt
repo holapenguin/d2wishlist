@@ -1,9 +1,29 @@
 // Waking Vigil (PvE)
-//notes:PvE-
+//notes:pve
 dimwishlist:item=3723679465&perks=,1168162263,2173046394
 dimwishlist:item=3723679465&perks=,247725512,2173046394
 
 // Waking Vigil (PvP)
-//notes:PvP-
+//notes:pvp
 dimwishlist:item=3723679465&perks=,1561002382,247725512,1015611457
+
+title:Guardian Games
+
+// The Title - Fallout Plays (pve)
+//notes: tags:pve
+dimwishlist:item=655712834&perks=776531651,2048641572
+
+
+// Hullabaloo - Fallout Plays (pve)
+//notes: tags:pve
+dimwishlist:item=657927352&perks=2173046394,2396489472
+
+
+// Taraxippos - Fallout Plays (pvp)
+//notes: tags:pvp
+dimwishlist:item=3007479950&perks=699525795,1015611457
+dimwishlist:item=3007479950&perks=2387244414,1015611457
+dimwishlist:item=3007479950&perks=588594999,1015611457
+dimwishlist:item=3007479950&perks=3619207468,1015611457
+
 
