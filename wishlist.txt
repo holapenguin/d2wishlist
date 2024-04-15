@@ -46,12 +46,44 @@ dimwishlist:item=568611923&perks=3525010810,3301904089,776531651,2048641572
 dimwishlist:item=568611923&perks=3525010810,3301904089,2396489472,2048641572
 
 
+// Edge Transit - Aztecross (pve)
+//notes: Aztecross tags:pve
+dimwishlist:item=568611923&perks=968510818,3194351027
+dimwishlist:item=568611923&perks=968510818,3078487919
+dimwishlist:item=568611923&perks=3751912585,3194351027
+dimwishlist:item=568611923&perks=3751912585,3078487919
+
+
 // The Recluse - Divide (pve)
 //notes: tags:pve
 dimwishlist:item=1050806815&perks=1820235745,2048641572
 dimwishlist:item=1050806815&perks=1820235745,2109543898
 dimwishlist:item=1050806815&perks=776531651,2048641572
 dimwishlist:item=1050806815&perks=776531651,2109543898
+
+
+// The Recluse - Aztecross (pvp)
+//notes: Aztecross, mw:range tags:pvp
+dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,1890422124
+dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,3081867624
+
+
+// Hung Jury SR4 - Aztecross (pve)
+//notes: Aztecross tags:pve
+dimwishlist:item=1453235079&perks=3891536761,4049631843
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+
+
+// Hung Jury SR4 - Aztecross (pvp)
+//notes: Aztecross tags:pvp
+dimwishlist:item=1453235079&perks=2866798147,2551157718
+dimwishlist:item=1453235079&perks=247725512,2551157718
+
+
+// Falling Guillotine - Aztecross (pve)
+//notes: Aztecross tags:pve
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3708227201
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3913600130
 
 
 // Elsie's Rifle - True Vanguard (pvp)
@@ -66,5 +98,18 @@ dimwishlist:item=2372514509&perks=839105230,1561002382,2387244414,3047969693
 //notes: tags:pve
 dimwishlist:item=2372514509&perks=839105230,1561002382,776531651,2048641572
 dimwishlist:item=2372514509&perks=839105230,1561002382,1119449540,2048641572
+
+
+// Elsie's Rifle - Aztecross (pvp)
+//notes: Aztecross tags:pvp
+dimwishlist:item=2372514509&perks=1467527085,1561002382,2387244414,460017080
+dimwishlist:item=2372514509&perks=1467527085,1561002382,3619207468,460017080
+dimwishlist:item=2372514509&perks=1467527085,1885400500,2387244414,460017080
+dimwishlist:item=2372514509&perks=1467527085,1885400500,3619207468,460017080
+
+
+// Succession - Aztecross (pve)
+//notes: Aztecross tags:pve
+dimwishlist:item=3612338554&perks=3978468247,3201496230
 
 
