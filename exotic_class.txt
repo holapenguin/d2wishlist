@@ -36,3 +36,35 @@ dimwishlist:item=2809120022&perks=3751917997,3751917993
 //Hunter Dragon & Cyrtarachne
 //notes:Dorvavich non-combination blow https://www.youtube.com/watch?v=_MJMw85s-Uk
 dimwishlist:item=2809120022&perks=3751917999,3751917994
+
+//Warlock Necrotic & Swarm
+//notes:Mactics poison swarm https://www.youtube.com/watch?v=2ydOsujRjUo
+dimwishlist:item=2273643087&perks=183430252,183430246
+
+//Warlock Osmiomancy & Synthoceps
+//notes:Plunderthabooty ability spam
+dimwishlist:item=2273643087&perks=183430253,1476923956
+
+//Warlock Necrotic & Synthoceps
+//notes:RestAssured melee surge https://www.youtube.com/watch?v=smc4jIauORU
+dimwishlist:item=2273643087&perks=183430252,1476923956
+
+//Warlock Apotheosis & Star-Eater
+//notes:RestAssured super supers https://www.youtube.com/watch?v=YGaKtAIDUrI
+dimwishlist:item=2273643087&perks=183430250,1476923955
+
+//Warlock Osmiomancy & Verity
+//notes:Duddits Euphony swarm https://www.youtube.com/watch?v=YM-rOgTaaFI
+dimwishlist:item=2273643087&perks=183430253,1476923957
+
+//Warlock Osmiomancy & Verity
+//notes:Duddits swarm https://www.youtube.com/watch?v=j4imwIy3_RU
+dimwishlist:item=2273643087&perks=183430253,1476923957
+
+//Warlock Necrotic & Star-Eater
+//notes:Duddits poison and powered super https://www.youtube.com/watch?v=O1pdCFPiitI
+dimwishlist:item=2273643087&perks=183430252,1476923955
+
+//Warlock Apotheosis & Verity
+//notes:Duddits void devestation https://www.youtube.com/watch?v=mtJ-D56OCJI
+dimwishlist:item=2273643087&perks=183430250,1476923957
