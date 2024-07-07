@@ -32,3 +32,7 @@ dimwishlist:item=2809120022&perks=3751917999,3751917994
 //Hunter Foetracer & Gyrfalcon
 //notes:Duddits heartshadow https://www.youtube.com/watch?v=ZlRDHkg2s1I
 dimwishlist:item=2809120022&perks=3751917997,3751917993
+
+//Hunter Dragon & Cyrtarachne
+//notes:Dorvavich non-combination blow https://www.youtube.com/watch?v=_MJMw85s-Uk
+dimwishlist:item=2809120022&perks=3751917999,3751917994
