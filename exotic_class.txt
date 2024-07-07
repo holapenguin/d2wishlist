@@ -1,0 +1,5 @@
+title:Exotic Class Items
+
+// Hunter
+// notes: Plunderthabooty nuke https://www.youtube.com/watch?v=rKba8YHRxbc
+dimwishlist:item=2809120022&perks=3751917996,3751917994
