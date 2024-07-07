@@ -16,7 +16,11 @@ dimwishlist:item=2809120022&perks=1476923953,3751917994
 dimwishlist:item=2809120022&perks=3751917996,1476923956
 dimwishlist:item=2809120022&perks=3751917996,3751917992
 
-//Hunter 
+//Hunter
 //notes:Mactics upgraded combo punch (team) https://www.youtube.com/watch?v=WFVc5mZfTbQ
 dimwishlist:item=2809120022&perks=3751917999,3751917992
 dimwishlist:item=2809120022&perks=3751917998,3751917992
+dimwishlist:item=2809120022&perks=3751917996,3751917992
+dimwishlist:item=2809120022&perks=3751917996,1476923956
+dimwishlist:item=2809120022&perks=1476923953,1476923956
+dimwishlist:item=2809120022&perks=1476923953,3751917992
