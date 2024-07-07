@@ -68,3 +68,8 @@ dimwishlist:item=2273643087&perks=183430252,1476923955
 //Warlock Apotheosis & Verity
 //notes:Duddits void devestation https://www.youtube.com/watch?v=mtJ-D56OCJI
 dimwishlist:item=2273643087&perks=183430250,1476923957
+
+//Ophidian & Star-Eater
+//notes: general DPS rotation
+dimwishlist:item=2273643087&perks=1476923954,1476923955
+dimwishlist:item=2809120022&perks=1476923954,1476923955
