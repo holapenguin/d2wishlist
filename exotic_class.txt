@@ -1,11 +1,12 @@
 title:Exotic Class Items
+description:Builds that use exotic class items for prismatic
 
-// Hunter
-// notes:Plunderthabooty nuke nades https://www.youtube.com/watch?v=rKba8YHRxbc
+//Hunter
+//notes:Plunderthabooty nuke nades https://www.youtube.com/watch?v=rKba8YHRxbc
 dimwishlist:item=2809120022&perks=3751917996,3751917994
 
-// Hunter
-// notes:Mactics non-combination blow https://www.youtube.com/watch?v=6uWIE5FJIGA
+//Hunter
+//notes:Mactics non-combination blow https://www.youtube.com/watch?v=6uWIE5FJIGA
 dimwishlist:item=2809120022&perks=1476923953,1476923957
 dimwishlist:item=2809120022&perks=1476923953,1476923956
 dimwishlist:item=2809120022&perks=1476923953,3751917994
