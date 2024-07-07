@@ -24,3 +24,11 @@ dimwishlist:item=2809120022&perks=3751917996,3751917992
 dimwishlist:item=2809120022&perks=3751917996,1476923956
 dimwishlist:item=2809120022&perks=1476923953,1476923956
 dimwishlist:item=2809120022&perks=1476923953,3751917992
+
+//Hunter Dragon & Cyrtarachne
+//notes:Aztecross build battle with heartshadow https://www.youtube.com/watch?v=b7SKpBxUSLU https://mobalytics.gg/destiny-2/profile/9dbf844a-52e1-4e4b-856f-ac11d35e540a/builds/2c5470ac-a602-4736-bceb-6263b1155720
+dimwishlist:item=2809120022&perks=3751917999,3751917994
+
+//Hunter Foetracer & Gyrfalcon
+//notes:Duddits heartshadow https://www.youtube.com/watch?v=ZlRDHkg2s1I
+dimwishlist:item=2809120022&perks=3751917997,3751917993
