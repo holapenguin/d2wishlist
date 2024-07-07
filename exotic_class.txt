@@ -10,3 +10,12 @@ dimwishlist:item=2809120022&perks=3751917996,3751917994
 dimwishlist:item=2809120022&perks=1476923953,1476923957
 dimwishlist:item=2809120022&perks=1476923953,1476923956
 dimwishlist:item=2809120022&perks=1476923953,3751917994
+
+//Hunter
+//notes:Mactics GM Warden of Nothing (s24)
+dimwishlist:item=2809120022&perks=3751917999,3751917994
+
+//Hunter
+//notes:Mactics combo punch
+dimwishlist:item=2809120022&perks=3751917996,1476923956
+dimwishlist:item=2809120022&perks=3751917996,3751917992
