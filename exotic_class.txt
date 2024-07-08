@@ -42,7 +42,7 @@ dimwishlist:item=2809120022&perks=3751917999,3751917994
 dimwishlist:item=2273643087&perks=183430252,183430246
 
 //Warlock Osmiomancy & Synthoceps
-//notes:Plunderthabooty ability spam
+//notes:Plunderthabooty ability spam https://www.youtube.com/watch?v=GNWT__3oLV8 https://mobalytics.gg/destiny-2/profile/e3c045ba-2dae-49fb-839f-c20d5c4f3099/builds/1c87e88c-9747-4890-af46-34c95fe42ed8
 dimwishlist:item=2273643087&perks=183430253,1476923956
 
 //Warlock Necrotic & Synthoceps
@@ -70,6 +70,6 @@ dimwishlist:item=2273643087&perks=183430252,1476923955
 dimwishlist:item=2273643087&perks=183430250,1476923957
 
 //Ophidian & Star-Eater
-//notes: general DPS rotation
+//notes:general DPS rotation
 dimwishlist:item=2273643087&perks=1476923954,1476923955
 dimwishlist:item=2809120022&perks=1476923954,1476923955
