@@ -37,6 +37,10 @@ dimwishlist:item=2809120022&perks=3751917997,3751917993
 //notes:Dorvavich non-combination blow https://www.youtube.com/watch?v=_MJMw85s-Uk
 dimwishlist:item=2809120022&perks=3751917999,3751917994
 
+//Hunter Inmost Light & Cyrtarachne
+//notes:Castle Content jack of all trades https://youtu.be/5ZZ5AtiKHr4
+dimwishlist:item=2809120022&perks=1476923953,3751917994
+
 //Warlock Necrotic & Swarm
 //notes:Mactics poison swarm https://www.youtube.com/watch?v=2ydOsujRjUo
 dimwishlist:item=2273643087&perks=183430252,183430246
