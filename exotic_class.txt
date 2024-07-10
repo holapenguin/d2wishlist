@@ -1,5 +1,5 @@
 title:Exotic Class Items
-description:Builds that use exotic class items for prismatic,3
+description:Builds that use exotic class items for prismatic,4
 
 //Hunter Caliban & Cyrtarachne
 //notes:Plunderthabooty nuke nades https://www.youtube.com/watch?v=rKba8YHRxbc, tag:pve
@@ -78,4 +78,14 @@ dimwishlist:item=2273643087&perks=183430250,1476923957
 //notes:general DPS rotation, tag:pve
 dimwishlist:item=2273643087&perks=1476923954,1476923955
 dimwishlist:item=2809120022&perks=1476923954,1476923955
+
+// Claws of the Wolf - dfsdaf (god-pve)
+//notes: sdf
+fasd
+sdfaf tags:god-pve
+dimwishlist:item=1505862304&perks=3938834702,2048641572
+dimwishlist:item=1505862304&perks=3938834702,243981275
+dimwishlist:item=1505862304&perks=957782887,2048641572
+dimwishlist:item=1505862304&perks=957782887,243981275
+
 
