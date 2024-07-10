@@ -1,5 +1,5 @@
 title:Exotic Class Items
-description:Builds that use exotic class items for prismatic,1
+description:Builds that use exotic class items for prismatic,2
 
 //Hunter Caliban & Cyrtarachne
 //notes:Plunderthabooty nuke nades https://www.youtube.com/watch?v=rKba8YHRxbc, tag:pve
