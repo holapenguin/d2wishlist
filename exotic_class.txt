@@ -53,6 +53,10 @@ dimwishlist:item=2273643087&perks=183430253,1476923956
 //notes:RestAssured lighning surge https://www.youtube.com/watch?v=smc4jIauORU, tag:pve
 dimwishlist:item=2273643087&perks=183430252,1476923956
 
+//Warlock Necrotic & Synthoceps
+//notes:CammyCakes pvp lightning surge https://www.youtube.com/watch?v=Q8T-r8iOklY, tag:pvp
+dimwishlist:item=2273643087&perks=183430252,1476923956#notes:CammyCakes pvp lightning surge https://www.youtube.com/watch?v=Q8T-r8iOklY, tag:pvp
+
 //Warlock Apotheosis & Star-Eater
 //notes:RestAssured super supers https://www.youtube.com/watch?v=YGaKtAIDUrI, tag:pve
 dimwishlist:item=2273643087&perks=183430250,1476923955
@@ -72,10 +76,6 @@ dimwishlist:item=2273643087&perks=183430252,1476923955
 //Warlock Apotheosis & Verity
 //notes:Duddits void devestation https://www.youtube.com/watch?v=mtJ-D56OCJI, tag:pve
 dimwishlist:item=2273643087&perks=183430250,1476923957
-
-//Warlock Necrotic & Synthoceps
-//notes:CammyCakes pvp lightning surge https://www.youtube.com/watch?v=Q8T-r8iOklY, tag:pvp
-dimwishlist:item=2273643087&perks=183430252,1476923956
 
 //Ophidian & Star-Eater
 //notes:general DPS rotation, tag:pve
