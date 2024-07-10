@@ -1,5 +1,5 @@
 title:Exotic Class Items
-description:Builds that use exotic class items for prismatic,5
+description:Builds that use exotic class items for prismatic,6
 
 //Hunter Caliban & Cyrtarachne
 //notes:Plunderthabooty nuke nades https://www.youtube.com/watch?v=rKba8YHRxbc, tag:pve
@@ -50,7 +50,7 @@ dimwishlist:item=2273643087&perks=183430252,183430246
 dimwishlist:item=2273643087&perks=183430253,1476923956
 
 //Warlock Necrotic & Synthoceps
-//notes:RestAssured lighning surge https://www.youtube.com/watch?v=smc4jIauORU, tag:pve <br/>CammyCakes pvp lightning surge https://www.youtube.com/watch?v=Q8T-r8iOklY, tag:pvp
+//notes:RestAssured lighning surge https://www.youtube.com/watch?v=smc4jIauORU, tag:pve|CammyCakes pvp lightning surge https://www.youtube.com/watch?v=Q8T-r8iOklY, tag:pvp
 dimwishlist:item=2273643087&perks=183430252,1476923956
 
 //Warlock Apotheosis & Star-Eater
