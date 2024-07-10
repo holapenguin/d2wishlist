@@ -1,9 +1,21 @@
 title:Exotic Class Items
-description:Builds that use exotic class items for prismatic,6
+description:Builds that use exotic class items for prismatic
 
 //Hunter Caliban & Cyrtarachne
 //notes:Plunderthabooty nuke nades https://www.youtube.com/watch?v=rKba8YHRxbc, tag:pve
 dimwishlist:item=2809120022&perks=3751917996,3751917994
+
+//Hunter Dragon & Cyrtarachne
+//notes:Aztecross build battle with heartshadow https://www.youtube.com/watch?v=b7SKpBxUSLU https://mobalytics.gg/destiny-2/profile/9dbf844a-52e1-4e4b-856f-ac11d35e540a/builds/2c5470ac-a602-4736-bceb-6263b1155720, tag:pve; Dorvavich non-combination blow https://www.youtube.com/watch?v=_MJMw85s-Uk, tag:pve
+dimwishlist:item=2809120022&perks=3751917999,3751917994
+
+//Hunter Foetracer & Gyrfalcon
+//notes:Duddits heartshadow https://www.youtube.com/watch?v=ZlRDHkg2s1I, tag:pve
+dimwishlist:item=2809120022&perks=3751917997,3751917993
+
+//Hunter Inmost Light & Cyrtarachne
+//notes:Castle Content jack of all trades https://youtu.be/5ZZ5AtiKHr4, tag:pve
+dimwishlist:item=2809120022&perks=1476923953,3751917994
 
 //Hunter Inmost Light & Verity/Synthoceps/Cyrtyrachne
 //notes:Mactics non-combination blow https://www.youtube.com/watch?v=6uWIE5FJIGA, tag:pve
@@ -25,22 +37,6 @@ dimwishlist:item=2809120022&perks=3751917996,1476923956
 dimwishlist:item=2809120022&perks=1476923953,1476923956
 dimwishlist:item=2809120022&perks=1476923953,3751917992
 
-//Hunter Dragon & Cyrtarachne
-//notes:Aztecross build battle with heartshadow https://www.youtube.com/watch?v=b7SKpBxUSLU https://mobalytics.gg/destiny-2/profile/9dbf844a-52e1-4e4b-856f-ac11d35e540a/builds/2c5470ac-a602-4736-bceb-6263b1155720, tag:pve
-dimwishlist:item=2809120022&perks=3751917999,3751917994
-
-//Hunter Foetracer & Gyrfalcon
-//notes:Duddits heartshadow https://www.youtube.com/watch?v=ZlRDHkg2s1I, tag:pve
-dimwishlist:item=2809120022&perks=3751917997,3751917993
-
-//Hunter Dragon & Cyrtarachne
-//notes:Dorvavich non-combination blow https://www.youtube.com/watch?v=_MJMw85s-Uk, tag:pve
-dimwishlist:item=2809120022&perks=3751917999,3751917994
-
-//Hunter Inmost Light & Cyrtarachne
-//notes:Castle Content jack of all trades https://youtu.be/5ZZ5AtiKHr4, tag:pve
-dimwishlist:item=2809120022&perks=1476923953,3751917994
-
 //Warlock Necrotic & Swarm
 //notes:Mactics poison swarm https://www.youtube.com/watch?v=2ydOsujRjUo, tag:pve
 dimwishlist:item=2273643087&perks=183430252,183430246
@@ -50,7 +46,7 @@ dimwishlist:item=2273643087&perks=183430252,183430246
 dimwishlist:item=2273643087&perks=183430253,1476923956
 
 //Warlock Necrotic & Synthoceps
-//notes:RestAssured lighning surge https://www.youtube.com/watch?v=smc4jIauORU, tag:pve|CammyCakes pvp lightning surge https://www.youtube.com/watch?v=Q8T-r8iOklY, tag:pvp
+//notes:RestAssured lighning surge https://www.youtube.com/watch?v=smc4jIauORU, tag:pve; CammyCakes pvp lightning surge https://www.youtube.com/watch?v=Q8T-r8iOklY, tag:pvp
 dimwishlist:item=2273643087&perks=183430252,1476923956
 
 //Warlock Apotheosis & Star-Eater
@@ -58,11 +54,7 @@ dimwishlist:item=2273643087&perks=183430252,1476923956
 dimwishlist:item=2273643087&perks=183430250,1476923955
 
 //Warlock Osmiomancy & Verity
-//notes:Duddits Euphony swarm https://www.youtube.com/watch?v=YM-rOgTaaFI, tag:pve
-dimwishlist:item=2273643087&perks=183430253,1476923957
-
-//Warlock Osmiomancy & Verity
-//notes:Duddits swarm https://www.youtube.com/watch?v=j4imwIy3_RU, tag:pve
+//notes:Duddits Euphony swarm https://www.youtube.com/watch?v=YM-rOgTaaFI, tag:pve; Duddits swarm https://www.youtube.com/watch?v=j4imwIy3_RU, tag:pve
 dimwishlist:item=2273643087&perks=183430253,1476923957
 
 //Warlock Necrotic & Star-Eater
@@ -77,14 +69,3 @@ dimwishlist:item=2273643087&perks=183430250,1476923957
 //notes:general DPS rotation, tag:pve
 dimwishlist:item=2273643087&perks=1476923954,1476923955
 dimwishlist:item=2809120022&perks=1476923954,1476923955
-
-// Claws of the Wolf - dfsdaf (god-pve)
-//notes: sdf
-fasd
-sdfaf tags:god-pve
-dimwishlist:item=1505862304&perks=3938834702,2048641572
-dimwishlist:item=1505862304&perks=3938834702,243981275
-dimwishlist:item=1505862304&perks=957782887,2048641572
-dimwishlist:item=1505862304&perks=957782887,243981275
-
-
