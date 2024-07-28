@@ -6,7 +6,7 @@ description:Builds that use exotic class items for prismatic
 dimwishlist:item=2809120022&perks=3751917996,3751917994
 
 //Hunter Dragon & Cyrtarachne
-//notes:Aztecross build battle with heartshadow https://www.youtube.com/watch?v=b7SKpBxUSLU https://mobalytics.gg/destiny-2/profile/9dbf844a-52e1-4e4b-856f-ac11d35e540a/builds/2c5470ac-a602-4736-bceb-6263b1155720, tag:pve; Dorvavich non-combination blow https://www.youtube.com/watch?v=_MJMw85s-Uk, tag:pve
+//notes:Aztecross build battle with heartshadow https://www.youtube.com/watch?v=b7SKpBxUSLU https://mobalytics.gg/destiny-2/profile/9dbf844a-52e1-4e4b-856f-ac11d35e540a/builds/2c5470ac-a602-4736-bceb-6263b1155720, tag:pve; Dorvavich non-combination blow https://www.youtube.com/watch?v=_MJMw85s-Uk, tag:pve; Plunderthabooty Gunpowder Ascension https://youtu.be/epnGDeVaXJs, tag:pve
 dimwishlist:item=2809120022&perks=3751917999,3751917994
 
 //Hunter Foetracer & Gyrfalcon
