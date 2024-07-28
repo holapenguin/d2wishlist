@@ -69,6 +69,10 @@ dimwishlist:item=2273643087&perks=183430250,1476923957
 //notes:Duddits invisible warlock https://www.youtube.com/watch?v=q5aPsosK6_4, tag:pve
 dimwishlist:item=2273643087&perks=1476923952,1476923956
 
+//Warlock Necro & Claw
+//notes:Datto poison incindiary https://www.youtube.com/watch?v=vjRI1giA6Pw, tag:pve
+dimwishlist:item=2273643087&perks=183430252,183430247
+
 //Ophidian & Star-Eater
 //notes:general DPS rotation, tag:pve
 dimwishlist:item=2273643087&perks=1476923954,1476923955
