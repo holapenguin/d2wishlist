@@ -65,6 +65,10 @@ dimwishlist:item=2273643087&perks=183430252,1476923955
 //notes:Duddits void devestation https://www.youtube.com/watch?v=mtJ-D56OCJI, tag:pve
 dimwishlist:item=2273643087&perks=183430250,1476923957
 
+//Warlock Assassign & Synthoceps
+//notes:Duddits invisible warlock https://www.youtube.com/watch?v=q5aPsosK6_4, tag:pve
+dimwishlist:item=2273643087&perks=1476923952,1476923956
+
 //Ophidian & Star-Eater
 //notes:general DPS rotation, tag:pve
 dimwishlist:item=2273643087&perks=1476923954,1476923955
